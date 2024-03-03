@@ -1,0 +1,15 @@
+[
+  {"customer_id": 101, "purchase_amount": 150.50},
+  {"customer_id": 102, "purchase_amount": 75.20},
+  {"customer_id": 103, "purchase_amount": 200.00},
+  {"customer_id": 104, "purchase_amount": 50.00},
+  {"customer_id": 105, "purchase_amount": 120.75},
+  {"customer_id": 101, "purchase_amount": 85},
+  {"customer_id": 102, "purchase_amount": 23},
+  {"customer_id": 102, "purchase_amount": 950.50},
+  {"customer_id": 106, "purchase_amount": 99},
+  {"customer_id": 107, "purchase_amount": 100},
+  {"customer_id": 108, "purchase_amount": 101},
+  {"customer_id": 109, "purchase_amount": 500},
+  {"customer_id": 103, "purchase_amount": 301}
+]

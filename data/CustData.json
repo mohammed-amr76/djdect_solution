@@ -1,15 +1,15 @@
 [
-  {"customer_name": 101, "customer_purchase_in_dollars": 150.50},
-  {"customer_name": 102, "customer_purchase_in_dollars": 75.20},
-  {"customer_name": 103, "customer_purchase_in_dollars": 200.00},
-  {"customer_name": 104, "customer_purchase_in_dollars": 50.00},
-  {"customer_name": 105, "customer_purchase_in_dollars": 120.75},
-  {"customer_name": 101, "customer_purchase_in_dollars": 85},
-  {"customer_name": 102, "customer_purchase_in_dollars": 23},
-  {"customer_name": 102, "customer_purchase_in_dollars": 950.50},
-  {"customer_name": 106, "customer_purchase_in_dollars": 99},
-  {"customer_name": 107, "customer_purchase_in_dollars": 100},
-  {"customer_name": 108, "customer_purchase_in_dollars": 101},
-  {"customer_name": 109, "customer_purchase_in_dollars": 500},
-  {"customer_name": 103, "customer_purchase_in_dollars": 301}
+  {"customer_id": 101, "purchase_amount": 150.50},
+  {"customer_id": 102, "purchase_amount": 75.20},
+  {"customer_id": 103, "purchase_amount": 200.00},
+  {"customer_id": 104, "purchase_amount": 50.00},
+  {"customer_id": 105, "purchase_amount": 120.75},
+  {"customer_id": 101, "purchase_amount": 85},
+  {"customer_id": 102, "purchase_amount": 23},
+  {"customer_id": 102, "purchase_amount": 950.50},
+  {"customer_id": 106, "purchase_amount": 99},
+  {"customer_id": 107, "purchase_amount": 100},
+  {"customer_id": 108, "purchase_amount": 101},
+  {"customer_id": 109, "purchase_amount": 500},
+  {"customer_id": 103, "purchase_amount": 301}
 ]

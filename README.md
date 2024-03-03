@@ -10,7 +10,8 @@ This python project will implement the customer purchase amount segmentations, a
 
 ```bash
 
-python3 -m venv <local-path>/david_jones_data_engineer_coding_test
+cd <local-path>/djdect_solution
+python3 -m venv .venv
 source ./bin/activate
 pip3 install -r requirements.txt
 ```
@@ -18,7 +19,7 @@ pip3 install -r requirements.txt
 ### 2. Running tests
 ```bash
 pip install pytest
-pytest
+python3 -m unittest discover tests
 ```
 
 ### 3. Executing main script
@@ -47,6 +48,8 @@ The primary script being run `main.py` can take several optional arguments, depe
 
 #### Parameter usage examples
 ```bash
+cd src/
+
 # if the customer identifier column and customer purchase amount column in the source file do match the above defaults
 python3 main.py
 

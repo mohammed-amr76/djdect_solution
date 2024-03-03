@@ -1,0 +1,12 @@
+.idea/
+.pytest_cache/
+.bin/
+include/
+lib/
+output/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw

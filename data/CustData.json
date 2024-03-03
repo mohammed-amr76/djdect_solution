@@ -1,0 +1,15 @@
+[
+  {"customer_name": 101, "customer_purchase_in_dollars": 150.50},
+  {"customer_name": 102, "customer_purchase_in_dollars": 75.20},
+  {"customer_name": 103, "customer_purchase_in_dollars": 200.00},
+  {"customer_name": 104, "customer_purchase_in_dollars": 50.00},
+  {"customer_name": 105, "customer_purchase_in_dollars": 120.75},
+  {"customer_name": 101, "customer_purchase_in_dollars": 85},
+  {"customer_name": 102, "customer_purchase_in_dollars": 23},
+  {"customer_name": 102, "customer_purchase_in_dollars": 950.50},
+  {"customer_name": 106, "customer_purchase_in_dollars": 99},
+  {"customer_name": 107, "customer_purchase_in_dollars": 100},
+  {"customer_name": 108, "customer_purchase_in_dollars": 101},
+  {"customer_name": 109, "customer_purchase_in_dollars": 500},
+  {"customer_name": 103, "customer_purchase_in_dollars": 301}
+]

@@ -9,7 +9,6 @@ This python project will implement the customer purchase amount segmentations, a
 ### 1. Setup virtual environment
 
 ```bash
-
 cd <local-path>/djdect_solution
 python3 -m venv .venv
 source .venv/bin/activate

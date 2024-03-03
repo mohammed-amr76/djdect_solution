@@ -12,13 +12,12 @@ This python project will implement the customer purchase amount segmentations, a
 
 cd <local-path>/djdect_solution
 python3 -m venv .venv
-source ./bin/activate
+source .venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
 ### 2. Running tests
 ```bash
-pip install pytest
 python3 -m unittest discover tests
 ```
 

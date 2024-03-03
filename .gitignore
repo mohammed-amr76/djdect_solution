@@ -3,7 +3,7 @@
 .bin/
 include/
 lib/
-outputs/
+outputs/*
 __pycache__/
 *.pyc
 *.pyo
